@@ -1,0 +1,11 @@
+# Core numerical & data handling
+numpy
+pandas
+
+# NLP & similarity
+scikit-learn
+nltk
+
+# Optional: if the script exposes a simple web/app interface, uncomment one of these
+# flask
+# streamlit

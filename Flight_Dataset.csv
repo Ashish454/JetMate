@@ -1,0 +1,51 @@
+Flight ID,Origin,Destination,Departure Date
+FL0001,Tokyo,Berlin,03/02/2025
+FL0002,Los Angeles,London,10/12/2024
+FL0003,Dubai,Los Angeles,09/02/2025
+FL0004,Berlin,Rome,25/12/2024
+FL0005,London,Los Angeles,21/12/2024
+FL0006,Delhi,Paris,21/12/2024
+FL0007,Mumbai,Los Angeles,23/12/2024
+FL0008,Berlin,London,11/12/2024
+FL0009,Tokyo,New York,30/12/2024
+FL0010,Paris,Rome,29/12/2024
+FL0011,Delhi,Tokyo,04/01/2025
+FL0012,London,Berlin,18/12/2024
+FL0013,Rome,Dubai,01/03/2025
+FL0014,Dubai,Rome,09/03/2025
+FL0015,Tokyo,Mumbai,19/02/2025
+FL0016,Sydney,Mumbai,20/12/2024
+FL0017,New York,Mumbai,04/01/2025
+FL0018,Rome,Paris,05/01/2025
+FL0019,Sydney,London,16/12/2024
+FL0020,London,Sydney,26/12/2024
+FL0021,Rome,Berlin,04/01/2025
+FL0022,Mumbai,New York,15/01/2025
+FL0023,Tokyo,Delhi,12/01/2025
+FL0024,Tokyo,Paris,06/12/2024
+FL0025,New York,Delhi,03/02/2025
+FL0026,Mumbai,Dubai,03/02/2025
+FL0027,Tokyo,Dubai,01/02/2025
+FL0028,Mumbai,London,11/01/2025
+FL0029,London,Mumbai,20/01/2025
+FL0030,Berlin,Tokyo,14/02/2025
+FL0031,Delhi,New York,14/02/2025
+FL0032,New York,Tokyo,09/01/2025
+FL0033,Mumbai,Tokyo,28/02/2025
+FL0034,Los Angeles,Rome,16/01/2025
+FL0035,Mumbai,Sydney,27/12/2024
+FL0036,Paris,Delhi,30/12/2024
+FL0037,Rome,Los Angeles,22/01/2025
+FL0038,New York,London,01/02/2025
+FL0039,Dubai,Tokyo,07/02/2025
+FL0040,New York,Sydney,29/01/2025
+FL0041,London,Paris,30/08/2024
+FL0042,Los Angeles,Dubai,22/01/2024
+FL0043,Sydney,New York,07/02/2025
+FL0044,Paris,Tokyo,13/12/2024
+FL0045,Dubai,Paris,24/01/2025
+FL0046,Paris,Dubai,03/02/2025
+FL0047,Dubai,Mumbai,10/02/2025
+FL0048,Los Angeles,Mumbai,03/01/2025
+FL0049,London,Rome,22/12/2024
+FL0050,London,New York,12/01/2025
