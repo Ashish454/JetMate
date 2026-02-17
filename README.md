@@ -1,6 +1,6 @@
-# Flight-Booking-Chatbot
+# JetMate
 
-An AI-powered chatbot that streamlines flight bookings, answers FAQs, and holds small-talk using classic NLP techniques (TF–IDF vectorisation and cosine similarity). The bot matches user queries to the closest knowledge snippets and flight details contained in the provided CSV datasets.
+An AI-driven chatbot that simplifies flight reservations, responds to FAQs, and engages in small talk using traditional NLP methods (TF–IDF vectorization and cosine similarity). The system maps user queries to the most relevant knowledge entries and flight information stored in the provided CSV datasets.
 
 ---
 
